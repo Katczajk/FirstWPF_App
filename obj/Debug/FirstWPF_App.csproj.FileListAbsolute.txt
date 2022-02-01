@@ -1,0 +1,15 @@
+C:\Users\hermann\Source\Repos\FirstWPF_App\bin\Debug\FirstWPF_App.exe.config
+C:\Users\hermann\Source\Repos\FirstWPF_App\bin\Debug\FirstWPF_App.exe
+C:\Users\hermann\Source\Repos\FirstWPF_App\bin\Debug\FirstWPF_App.pdb
+C:\Users\hermann\Source\Repos\FirstWPF_App\obj\Debug\FirstWPF_App.csproj.AssemblyReference.cache
+C:\Users\hermann\Source\Repos\FirstWPF_App\obj\Debug\MainWindow.g.cs
+C:\Users\hermann\Source\Repos\FirstWPF_App\obj\Debug\App.g.cs
+C:\Users\hermann\Source\Repos\FirstWPF_App\obj\Debug\FirstWPF_App_MarkupCompile.cache
+C:\Users\hermann\Source\Repos\FirstWPF_App\obj\Debug\FirstWPF_App_MarkupCompile.lref
+C:\Users\hermann\Source\Repos\FirstWPF_App\obj\Debug\MainWindow.baml
+C:\Users\hermann\Source\Repos\FirstWPF_App\obj\Debug\FirstWPF_App.g.resources
+C:\Users\hermann\Source\Repos\FirstWPF_App\obj\Debug\FirstWPF_App.Properties.Resources.resources
+C:\Users\hermann\Source\Repos\FirstWPF_App\obj\Debug\FirstWPF_App.csproj.GenerateResource.cache
+C:\Users\hermann\Source\Repos\FirstWPF_App\obj\Debug\FirstWPF_App.csproj.CoreCompileInputs.cache
+C:\Users\hermann\Source\Repos\FirstWPF_App\obj\Debug\FirstWPF_App.exe
+C:\Users\hermann\Source\Repos\FirstWPF_App\obj\Debug\FirstWPF_App.pdb
